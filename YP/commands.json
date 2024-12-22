@@ -1,0 +1,32 @@
+{
+  "greeting": {
+    "examples": ["привет", "здравствуй", "добрый день", "hello", "good morning"],
+    "responses": "play_greetings",
+    "responses_voice_ru": "Привет! Как я могу помочь?",
+    "responses_voice_en": "Hello! How can I help?"
+  },
+  "farewell": {
+    "examples": ["пока", "до свидания", "увидимся", "до встречи", "goodbye", "bye", "see you soon"],
+    "responses": "play_farewell_and_quit",
+    "responses_voice_ru": "До свидания! Хорошего дня!",
+    "responses_voice_en": "Goodbye! Have a nice day!"
+  },
+  "google_search": {
+    "examples": ["найди в гугл", "search on google", "google", "find on google"],
+    "responses": "search_for_term_on_google",
+    "responses_voice_ru": "Я ищу это в Google.",
+    "responses_voice_en": "I'm searching for this on Google."
+  },
+  "language": {
+    "examples": ["смени язык", "switch language", "language", "switch", "change", "смени", "поменяй", "язык", "change language"],
+    "responses": "change_language",
+    "responses_voice_ru": "Я меняю язык.",
+    "responses_voice_en": "I am changing the language."
+  },
+  "coin": {
+    "examples": ["подбрось монетку", "подбрось", "drop coin", "coin"],
+    "responses": "drop_coin",
+    "responses_voice_ru": "Я подбросил монетку!",
+    "responses_voice_en": "I flipped a coin!"
+  }
+}
